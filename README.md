@@ -1,9 +1,9 @@
 # coursera-reinforcment-learning
 2019-10-30 This is a repository for Coursera "Reinforcement Learning Specialization".
 
-### Reinforcement Learning Specialization
+## Reinforcement Learning Specialization
 
-#### About this Specialization
+### About this Specialization
 
 https://www.coursera.org/specializations/reinforcement-learning
 
@@ -15,6 +15,6 @@ By the end of this Specialization, learners will understand the foundations of m
 
 The tools learned in this Specialization can be applied to game development (AI), customer interaction (how a website interacts with customers), smart assistants, recommender systems, supply chain, industrial control, finance, oil & gas pipelines, industrial control systems, and more.
 
-### Logs
+## Logs
 
 2019-10-30 repo created
