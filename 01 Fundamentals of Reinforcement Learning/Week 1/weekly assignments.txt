@@ -1,0 +1,14 @@
+﻿
+For this week, you'll need to read Chapter 2-2.7 (Pages 25-36) in Reinforcement Learning: An Introduction.
+
+Read the Chapter 2 summary (pages 42-43) in Reinforcement Learning: An Introduction before attempting the assignments.
+
+Bandits and Exploration/Exploitation
+Welcome to Assignment 1. This notebook will:
+
+Help you create your first bandit algorithm
+Help you understand the effect of epsilon on exploration and learn about the exploration/exploitation tradeoff
+Introduce you to some of the reinforcement learning software we are going to use for this class
+
+https://rdmfqweagtznnqleuusnep.coursera-apps.org/notebooks/C1M1/C1M1-Assignment1-v9.ipynb
+

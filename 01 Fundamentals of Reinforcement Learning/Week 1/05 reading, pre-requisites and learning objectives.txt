@@ -1,0 +1,11 @@
+﻿Thanks for joining our Reinforcement Learning Specialization! We're excited to have you start, but before you do, read through the following pre-requisites and learning objectives, to ensure you get the most out of the course:
+
+What do I need to know before starting this course?
+
+It is important to note that this specialization will not cover any programming; there are no lectures on python. To be comfortable with the course content, students should have at least a university level course in python, or one year experience, before starting course 1. Learners should be comfortable converting algorithms written in english in code. If your python's a bit rusty, don't worry! Why not have a go at the University of Alberta's introductory Python course: Problem Solving, Programming and Video Games and refresh your coding skills!
+
+You'll also need some basic math knowledge including, basic knowledge and comfort with expected values, distributions, and sampling, as well as basic calculus (derivatives), linear algebra (vectors, matrices, inner products), functions.
+
+What will I learn from the course?
+
+In the attached PDF, you can read the module-by-module learning objectives for Course One: Fundamentals of Reinforcement Learning. Tick off each learning objective as you go through the course!

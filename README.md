@@ -1,5 +1,7 @@
-# coursera-reinforcment-learning
-2019-10-30 This is a repository for Coursera "Reinforcement Learning Specialization".
+﻿# coursera-reinforcment-learning
+
+This is a repository for Coursera "Reinforcement Learning Specialization".    
+https://github.com/Nov05/coursera-reinforcment-learning   
 
 ## :point_right: Reinforcement Learning Specialization
 
