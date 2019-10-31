@@ -17,6 +17,12 @@ By the end of this Specialization, learners will understand the foundations of m
 
 The tools learned in this Specialization can be applied to game development (AI), customer interaction (how a website interacts with customers), smart assistants, recommender systems, supply chain, industrial control, finance, oil & gas pipelines, industrial control systems, and more.
 
+## Links
+
+### 01 Fundamentals of Reinforcement Learning  
+
+[Quizzes](https://docs.google.com/document/d/17XmL2nXay6UqsaaCkEdhZAGrnuhW7t3mMeDUFtxnrX0/edit?usp=sharing)  
+   
 ## :point_right: Logs
 
 2019-10-30 repo created
